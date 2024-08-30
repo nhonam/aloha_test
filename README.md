@@ -4,6 +4,8 @@ Yêu cầu:
 Java 21
 MySql version 8
 
+Script database : https://drive.google.com/file/d/1XVnFd-cXhV_uIUJ45f3npKUtai4_tM5L/view?usp=sharing
+
 Bước 1: clone code từ github
 
 Bước 2: run script database
